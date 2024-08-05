@@ -1,0 +1,12 @@
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.deps.json
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.dll
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.pdb
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.AssemblyReference.cache
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfo.cs
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.dll
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\refint\CQRS.Core.dll
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.pdb
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\ref\CQRS.Core.dll

@@ -1,0 +1,17 @@
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.csproj.AssemblyReference.cache
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.AssemblyInfoInputs.cache
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.AssemblyInfo.cs
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Query.Domain.deps.json
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Query.Domain.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Query.Domain.pdb
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\CQRS.Core.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Common.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\CQRS.Core.pdb
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Common.pdb
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Que.097346E7.Up2Date
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\refint\Post.Query.Domain.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.pdb
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\ref\Post.Query.Domain.dll
