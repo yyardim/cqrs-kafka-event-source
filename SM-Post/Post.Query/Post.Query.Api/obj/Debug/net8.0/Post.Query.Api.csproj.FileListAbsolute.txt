@@ -116,3 +116,4 @@ C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Api\obj\Debug\n
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net8.0\ref\Post.Query.Api.dll
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net8.0\Castle.Core.dll
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net8.0\Post.Query.Api.sourcelink.json

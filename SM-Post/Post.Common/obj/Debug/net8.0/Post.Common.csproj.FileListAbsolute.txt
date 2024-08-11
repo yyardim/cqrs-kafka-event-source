@@ -13,3 +13,4 @@ C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Common\obj\Debug\net8.0\Post.Com
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Common\obj\Debug\net8.0\refint\Post.Common.dll
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.pdb
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Common\obj\Debug\net8.0\ref\Post.Common.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.sourcelink.json

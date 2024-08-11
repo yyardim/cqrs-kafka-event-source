@@ -1,17 +1,12 @@
 using CQRS.Core.Handlers;
-using CQRS.Core.Infrastructure;
 using Post.Cmd.Domain.Aggregates;
 
 namespace Post.Cmd.Api.Commands;
 
-public class CommandHandler : ICommandHandler
+public class CommandHandler(
+    IEventSourcingHandler<PostAggregate> eventSourcingHandler) : ICommandHandler
 {
-    private readonly IEventSourcingHandler<PostAggregate> _eventSourcingHandler;
-
-    public CommandHandler(IEventSourcingHandler<PostAggregate> eventSourcingHandler)
-    {
-        _eventSourcingHandler = eventSourcingHandler;
-    }
+    private readonly IEventSourcingHandler<PostAggregate> _eventSourcingHandler = eventSourcingHandler;
 
     public async Task HandleAsync(NewPostCommand command)
     {

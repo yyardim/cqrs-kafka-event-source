@@ -5,16 +5,12 @@ using CQRS.Core.Consumers;
 
 namespace Post.Query.Infrastructure.Consumers;
 
-public class ConsumerHostedService : IHostedService
+public class ConsumerHostedService(
+    ILogger<ConsumerHostedService> logger, 
+    IServiceProvider serviceProvider) : IHostedService
 {
-    private readonly ILogger<ConsumerHostedService> _logger;
-    private readonly IServiceProvider _serviceProvider;
-
-    public ConsumerHostedService(ILogger<ConsumerHostedService> logger, IServiceProvider serviceProvider)
-    {
-        _logger = logger;
-        _serviceProvider = serviceProvider;
-    }
+    private readonly ILogger<ConsumerHostedService> _logger = logger;
+    private readonly IServiceProvider _serviceProvider = serviceProvider;
 
     public Task StartAsync(CancellationToken cancellationToken)
     {

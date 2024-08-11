@@ -5,7 +5,8 @@ using Post.Cmd.Domain.Aggregates;
 
 namespace Post.Cmd.Infrastructure.Handlers;
 
-public class EventSourcingHandler(IEventStore eventStore) : IEventSourcingHandler<PostAggregate>
+public class EventSourcingHandler(IEventStore eventStore) 
+    : IEventSourcingHandler<PostAggregate>
 {
     private readonly IEventStore _eventStore = eventStore;
 

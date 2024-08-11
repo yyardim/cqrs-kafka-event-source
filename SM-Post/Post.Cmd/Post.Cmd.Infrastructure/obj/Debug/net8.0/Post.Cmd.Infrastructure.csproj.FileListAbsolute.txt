@@ -17,3 +17,4 @@ C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net8.0\refint\Post.Cmd.Infrastructure.dll
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net8.0\Post.Cmd.Infrastructure.pdb
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net8.0\ref\Post.Cmd.Infrastructure.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net8.0\Post.Cmd.Infrastructure.sourcelink.json

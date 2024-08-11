@@ -10,3 +10,4 @@ C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.
 C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\refint\CQRS.Core.dll
 C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.pdb
 C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\ref\CQRS.Core.dll
+C:\gitRepo\cqrs-kafka-event-source\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.sourcelink.json

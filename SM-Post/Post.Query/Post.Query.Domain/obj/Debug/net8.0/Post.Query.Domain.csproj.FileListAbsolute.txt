@@ -15,3 +15,4 @@ C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debu
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\refint\Post.Query.Domain.dll
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.pdb
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\ref\Post.Query.Domain.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.sourcelink.json

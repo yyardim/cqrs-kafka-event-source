@@ -76,3 +76,4 @@ C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net8.
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net8.0\Post.Cmd.Api.pdb
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net8.0\Post.Cmd.Api.genruntimeconfig.cache
 C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net8.0\ref\Post.Cmd.Api.dll
+C:\gitRepo\cqrs-kafka-event-source\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net8.0\Post.Cmd.Api.sourcelink.json

@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D89E629D-CC86-4FC0-B9F6-41E11CE12E82}|Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.cmd\\post.cmd.api\\controllers\\editmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E629D-CC86-4FC0-B9F6-41E11CE12E82}|Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\editmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89E629D-CC86-4FC0-B9F6-41E11CE12E82}|Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.cmd\\post.cmd.api\\controllers\\newpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89E629D-CC86-4FC0-B9F6-41E11CE12E82}|Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\newpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.query\\post.query.infrastructure\\consumers\\consumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|solutionrelative:post.query\\post.query.infrastructure\\consumers\\consumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.query\\post.query.infrastructure\\consumers\\eventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|solutionrelative:post.query\\post.query.infrastructure\\consumers\\eventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.query\\post.query.infrastructure\\handlers\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|solutionrelative:post.query\\post.query.infrastructure\\handlers\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{015113A3-658B-4920-840C-A67550ACD96D}|Post.Query\\Post.Query.Api\\Post.Query.Api.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.query\\post.query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015113A3-658B-4920-840C-A67550ACD96D}|Post.Query\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.query\\post.query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.query\\post.query.infrastructure\\handlers\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|solutionrelative:post.query\\post.query.infrastructure\\handlers\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|c:\\gitrepo\\cqrs-kafka-event-source\\sm-post\\post.query\\post.query.infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A9A73-7755-4444-A7A5-81CBD9C4AE82}|Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj|solutionrelative:post.query\\post.query.infrastructure\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +47,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EditMessageController.cs",
+              "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "RelativeDocumentMoniker": "Post.Cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "RelativeToolTip": "Post.Cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:41:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventConsumer.cs",
+              "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Consumers\\EventConsumer.cs",
+              "RelativeDocumentMoniker": "Post.Query\\Post.Query.Infrastructure\\Consumers\\EventConsumer.cs",
+              "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Consumers\\EventConsumer.cs",
+              "RelativeToolTip": "Post.Query\\Post.Query.Infrastructure\\Consumers\\EventConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:36:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumerHostedService.cs",
+              "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Consumers\\ConsumerHostedService.cs",
+              "RelativeDocumentMoniker": "Post.Query\\Post.Query.Infrastructure\\Consumers\\ConsumerHostedService.cs",
+              "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Consumers\\ConsumerHostedService.cs*",
+              "RelativeToolTip": "Post.Query\\Post.Query.Infrastructure\\Consumers\\ConsumerHostedService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:34:37.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Handlers\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "Post.Query\\Post.Query.Infrastructure\\Handlers\\IEventHandler.cs",
+              "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Handlers\\IEventHandler.cs",
+              "RelativeToolTip": "Post.Query\\Post.Query.Infrastructure\\Handlers\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:22:29.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPostController.cs",
+              "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "RelativeDocumentMoniker": "Post.Cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "RelativeToolTip": "Post.Cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:17:22.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Post.Query\\Post.Query.Infrastructure\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Post.Query\\Post.Query.Infrastructure\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:08:31.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventHandler.cs",
+              "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Handlers\\EventHandler.cs",
+              "RelativeDocumentMoniker": "Post.Query\\Post.Query.Infrastructure\\Handlers\\EventHandler.cs",
+              "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Handlers\\EventHandler.cs",
+              "RelativeToolTip": "Post.Query\\Post.Query.Infrastructure\\Handlers\\EventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:09:44.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Api\\Program.cs",
               "RelativeDocumentMoniker": "Post.Query\\Post.Query.Api\\Program.cs",
               "ToolTip": "C:\\gitRepo\\cqrs-kafka-event-source\\SM-Post\\Post.Query\\Post.Query.Api\\Program.cs",
               "RelativeToolTip": "Post.Query\\Post.Query.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwBcAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T07:13:57.165Z",
               "EditorCaption": ""
