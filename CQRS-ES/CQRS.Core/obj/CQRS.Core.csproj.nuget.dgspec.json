@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {}
+    "C:\\GitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {}
   },
   "projects": {
-    "C:\\gitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+    "C:\\GitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectUniqueName": "C:\\GitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "C:\\gitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectPath": "C:\\GitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "packagesPath": "C:\\Users\\yyard\\.nuget\\packages\\",
-        "outputPath": "C:\\gitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\obj\\",
+        "outputPath": "C:\\GitRepo\\cqrs-kafka-event-source\\CQRS-ES\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yyard\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
